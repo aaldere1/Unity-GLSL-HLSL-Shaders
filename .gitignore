@@ -35,3 +35,16 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.mp4
+Assets/Imports.meta
+Assets/Imports/CineConcerts Mockups.mp4.meta
+Assets/Imports/cineconcerts_mockups_3840x1920.mp4.meta
+Assets/Imports/shot_1_3840x1920.mp4.meta
+Assets/Imports/still-shot_3_3840x1920.mp4.meta
+Assets/Imports/still-shot_4_3840x1920.mp4.meta
+Assets/Imports/still-shot_5_3840x1920.mp4.meta
+Assets/Imports/still-shot_6_3840x1920.mp4.meta
+Assets/Imports/still2-shot_2_3840x1920.mp4.meta
+Assets/Imports/video-Merch Table.mp4.meta
+Assets/Imports/video-merchvideo1_3840x1920.mp4.meta
+Assets/Imports/video-redmerchpov_4096x2048.mp4.meta
